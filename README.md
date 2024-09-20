@@ -1,4 +1,9 @@
 ## Olá sou o Pedro Vasconcellos 👋
+
+<img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="70%"/>
+
+<br>
+
 [![LinkedInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-vasconcellos-77353016b)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010881995986&locale=pt_BR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_v4zconcellos_/)
@@ -10,6 +15,10 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobvasconcellos&layout=compact&theme=radical)
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pedrobvasconcellos&theme=radical)](https://git.io/streak-stats)
 
 ## Tecnologias que utilizo 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
