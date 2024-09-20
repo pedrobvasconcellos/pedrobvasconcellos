@@ -6,8 +6,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vasconcellospedro213@gmail.com)
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobvasconcellos&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobvasconcellos&layout=compact&theme=tokyonight)
 
 ## Tecnologias que utilizo 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
