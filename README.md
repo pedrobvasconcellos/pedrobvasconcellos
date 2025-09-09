@@ -44,7 +44,7 @@
 
 ---
 <div align="center">
-  <img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="800"/>
+  <img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="700"/>
   <br>
   <sub>⚔️ "Persistência é a chave" ⚔️</sub>
 </div>
