@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Pedro Vasconcellos  
+# Olá, eu sou o Pedro Vasconcellos  
 
 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
-Trabalho com **Node.js, React, .NET, C# e bancos de dados relacionais e não relacionais**.  
+Trabalho com **Node.js, React, C# e bancos de dados relacionais e não relacionais**.  
 Gosto de transformar ideias em código funcional e explorar boas práticas de desenvolvimento.  
 
 <div align="center">
