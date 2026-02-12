@@ -1,18 +1,16 @@
 # 👋 Olá, eu sou o Pedro Vasconcellos  
 
-🎓 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
-💻 Trabalho com **Node.js, React, .NET, C# e bancos de dados relacionais e não relacionais**.  
-🚀 Gosto de transformar ideias em código funcional e explorar boas práticas de desenvolvimento.  
+Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
+Trabalho com **Node.js, React, .NET, C# e bancos de dados relacionais e não relacionais**.  
+Gosto de transformar ideias em código funcional e explorar boas práticas de desenvolvimento.  
 
 <div align="center">
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobvasconcellos&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobvasconcellos&layout=compact&theme=radical)  
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrobvasconcellos&theme=radical)
 
 </div>
 
-## 🚀 Tecnologias e Ferramentas  
+## Tecnologias e Ferramentas  
 
 **Frontend:**  
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +28,7 @@
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🌐 Onde me encontrar  
+## Onde me encontrar  
 
 <div align="center">
 
@@ -46,5 +44,5 @@
 <div align="center">
   <img src="https://c.tenor.com/T8tXOKz3hXIAAAAC/dark-souls.gif" alt="darkSouls" width="700"/>
   <br>
-  <sub>⚔️ "Persistência é a chave" ⚔️</sub>
+  <sub>"Persistência é a chave"</sub>
 </div>
